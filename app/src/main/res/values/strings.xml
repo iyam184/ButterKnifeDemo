@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ButterKnifeDemo</string>
+    <string name="msg_toast">吐司一下</string>
+    <string name="msg_clear_edittext">清空输入框</string>
 </resources>
